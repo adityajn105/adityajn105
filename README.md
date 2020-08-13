@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+My name is Aditya Jain and I am from Bengaluru, India.
+
+I am currently working as a Data Scientist for Cognizant. My area of interest lies in applied machine learning and deep learning.
+
+You can see what I am currently upto on [adityajain.me](https://adityajain.me).
+
+### 📬 Get in touch
+1. Linkedin: [adityajn105](https://in.linkedin.com/in/adityajn105)
+2. Twitter : [@adityajn105](https://twitter.com/adityajn105?lang=en)
+3. Instagram: [adityajn105](https://www.instagram.com/adityajn105/)
+
+### 🌳 My Digital Garden
+1. [Projects](https://projects.adityajain.me)
+2. [Blogs](https://adityajain.me)
+
+### &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/adityajn105/adityajn105">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajn105&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+
 <!--
 **adityajn105/adityajn105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
