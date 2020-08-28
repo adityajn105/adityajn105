@@ -25,7 +25,7 @@ You can see what I am currently upto on [adityajain.me](https://adityajain.me).
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajn105&hide=Jupyter%20Notebook&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's Top Langauages" />
 </a>
 
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=adityajn105" alt="adityajn105"/> </p>
 
 
 <!--
