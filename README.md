@@ -2,7 +2,7 @@
 
 My name is Aditya Jain and I am from Bengaluru, India.
 
-I am currently working as a Data Scientist for Cognizant. My area of interest lies in applied machine learning and deep learning.
+My area of interest lies in applied machine learning and deep learning.
 
 You can see what I am currently upto on [adityajain.me](https://adityajain.me).
 
