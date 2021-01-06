@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aditya Jain and I am from Bengaluru, India.
+My name is Aditya Jain and I am currently pursuing MS in Computer Science from USC Viterbi School of Engineering, Los Angeles.
 
 My area of interest lies in applied machine learning and deep learning.
 
